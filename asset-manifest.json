@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/onetapdev/static/css/main.d38bf5f9.chunk.css",
+    "main.js": "/onetapdev/static/js/main.ccf2e464.chunk.js",
+    "main.js.map": "/onetapdev/static/js/main.ccf2e464.chunk.js.map",
+    "runtime-main.js": "/onetapdev/static/js/runtime-main.1324794c.js",
+    "runtime-main.js.map": "/onetapdev/static/js/runtime-main.1324794c.js.map",
+    "static/js/2.8843adbb.chunk.js": "/onetapdev/static/js/2.8843adbb.chunk.js",
+    "static/js/2.8843adbb.chunk.js.map": "/onetapdev/static/js/2.8843adbb.chunk.js.map",
+    "index.html": "/onetapdev/index.html",
+    "precache-manifest.dbacab84ce671f148b0cbccefff4806f.js": "/onetapdev/precache-manifest.dbacab84ce671f148b0cbccefff4806f.js",
+    "service-worker.js": "/onetapdev/service-worker.js",
+    "static/css/main.d38bf5f9.chunk.css.map": "/onetapdev/static/css/main.d38bf5f9.chunk.css.map",
+    "static/js/2.8843adbb.chunk.js.LICENSE.txt": "/onetapdev/static/js/2.8843adbb.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/onetapdev/static/media/Menlo-Regular.9f94dc20.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1324794c.js",
+    "static/js/2.8843adbb.chunk.js",
+    "static/css/main.d38bf5f9.chunk.css",
+    "static/js/main.ccf2e464.chunk.js"
+  ]
+}
